@@ -1,0 +1,15 @@
+{
+  "name": "zwittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "zwitterion": "^0.12.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "zwitterion"
+  },
+  "author": "",
+  "license": "ISC"
+}

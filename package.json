@@ -8,7 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "zwitterion"
+    "start": "zwitterion", 
+    "watch": "zwitterion --port 8000 --watch-files", 
+    "build": "zwitterion --port 8000 --build-static"
   },
   "author": "",
   "license": "ISC"

@@ -17,3 +17,6 @@ Download and save all .ts files from Zwitterion
 ```
 
 solution: on OSX you will have to upgrade to bash 4: http://clubmate.fi/upgrade-to-bash-4-in-mac-os-x/
+
+
+I also had to change the hardcoded `/bin/bash` reference in zwitterion to my local bash binary. 
